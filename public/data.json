@@ -1,0 +1,448 @@
+[
+  {
+    "insalata": [
+      {
+        "name": "Insalata Mista di Stagione",
+        "description": "Mixed fresh seasonal salad",
+        "price": "9.95"
+      },
+      {
+        "name": "Caesare",
+        "description": "Romaine Tossed with Creamy Caesar Dressing, Garlic Croutons, Shaved Parmesan Cheese",
+        "price": "9.95"
+      },
+      {
+        "name": "Caprese",
+        "description": "Sliced Tomato, Fresh Mozzarella, Basil Oil & Balsamic Reduction",
+        "price": "13.95"
+      },
+      {
+        "name": "Insalata di Pollo Fritti",
+        "description": "Crispy pieces of Chicken, Arugula Salad & Parmesan Cheese",
+        "price": "14.95"
+      },
+      {
+        "name": "Insalata Caprini",
+        "description": "Mixed Greens, Goat Cheese, Caramalized Walnuts, Tomato, Basil & Balsamic Dressing",
+        "price": "11.95"
+      }
+    ],
+    "antipasta": [
+      {
+        "name": "Vongole Oreganate",
+        "description": "Baked clams",
+        "price": "14.95"
+      },
+      {
+        "name": "Padellate di Cozze",
+        "description": "New Zealand Mussels & Marinara Sauce",
+        "price": "18.95"
+      },
+      {
+        "name": "Gamberetti alla Toscana",
+        "description": "Baby Shrimps with Beans",
+        "price": "14.95"
+      },
+      {
+        "name": "Mozzarella & Peppers",
+        "description": "Homemade Fresh Mozzarella, Peppers & Anchovies",
+        "price": "11.95"
+      },
+      {
+        "name": "Polenta & Gorgonzola",
+        "description": "Polenta, Gorgonzola & Mushrooms",
+        "price": "10.95"
+      },
+
+      {
+        "name": "Calamari Fritti",
+        "description": "Fried Calamari with Basil Marinara Sauce",
+        "price": "16.95"
+      },
+
+      {
+        "name": "Spiedino alla Romana",
+        "description": "Mozzarella, Capers & Anchovies",
+        "price": "11.95"
+      },
+
+      {
+        "name": "Gran Misto Jumbo (Cold)",
+        "description": "Roasted Eggplant, Fresh Mozzarella, Tomatoes, Portobello, Peppers & Salad",
+        "price": "16.95"
+      },
+
+      {
+        "name": "Fried Zucchini",
+        "description": "Served to perfection",
+        "price": "11.95"
+      }
+    ],
+    "homemade-pasta": [
+      {
+        "name": "Linguine con Gamberoni",
+        "description": "Shrimp, Marinara sauce & Linguine",
+        "price": "23.95"
+      },
+      {
+        "name": "Tagliatelle Trasteverina",
+        "description": "Calamari, Mussels, Olives, Artichokes & Light Tomato Sauce over Taleteller",
+        "price": "25.95"
+      },
+
+      {
+        "name": "Linguine con Scampi",
+        "description": "Sauteed Shrimp, Garlic White Wine Sauce",
+        "price": "25.95"
+      },
+      {
+        "name": "Penne con Gamberoni",
+        "description": "Penne, Shrimps & Vodka Sauce",
+        "price": "24.95"
+      },
+      {
+        "name": "Linguine al Fruit di Mare",
+        "description": "Shrimp, Calamari, Clams, Mussels, Fish, Garlic & Oil, Basil and Fresh Tomato",
+        "price": "31.95"
+      },
+      {
+        "name": "Rigatoni con Melanzane",
+        "description": "Rigatoni, Roasted Eggplant, Tomato & Mozzarella",
+        "price": "19.95"
+      },
+      {
+        "name": "Fettuccine alla Bolognose",
+        "description": "Fettuccine con Pollo",
+        "price": "20.95"
+      },
+      {
+        "name": "Penne con Broccoli",
+        "description": "Penne, Broccoli, Shrimp, Garlic & Oil",
+        "price": "20.95"
+      },
+      {
+        "name": "Rigatoni al Pomodoro",
+        "description": "Rigatoni, Tomato Sauce & Basil",
+        "price": "18.95"
+      },
+      {
+        "name": "Fettucine con Pollo",
+        "description": "Fettucine, Grilled Chicken & Zucchini in Light Tomato Sauce",
+        "price": "20.95"
+      },
+      {
+        "name": "Orechhiette Catalana",
+        "description": "Ear Shaped pasta, Italian Sausage, Peas & a touch of Cream & Tomato",
+        "price": "21.95"
+      },
+      {
+        "name": "Conchieglie con Prosciutto",
+        "description": "Shells, Prosciutto, Peas & Cream",
+        "price": "20.95"
+      },
+      {
+        "name": "Pappardelle al Telefono",
+        "description": "Basil, Marinara & Melted Mozzarella",
+        "price": "20.95"
+      }
+    ],
+
+    "classics": [
+      {
+        "name": "Risotto Piselli",
+        "description": "Risotto, prosciutto, peas with a pink sauce",
+        "price": "25.95"
+      },
+      {
+        "name": "Lasagna di Vitello al Forno",
+        "description": "Baked Veal Lasagna",
+        "price": "25.95"
+      },
+      {
+        "name": "Faralle alla Vodka",
+        "description": "Chicken & Mushrooms in a Pink Sauce",
+        "price": "21.95"
+      },
+      {
+        "name": "Linguine all Vongole",
+        "description": "Sauteed Clams in Garlic White Wine Sauce",
+        "price": "25.95"
+      },
+
+      {
+        "name": "Capellinin alla Primavera",
+        "description": "Capelin with Fresh Vegatables",
+        "price": "20.95"
+      },
+      {
+        "name": "Spaghetti & Meatballs",
+        "description": "Homemade Meatballs with Marinara Sauce",
+        "price": "21.95"
+      }
+    ],
+    "pesce": [
+      {
+        "name": "Filetti di Sogilola Ambrosian",
+        "description": "Fielt of Sole, Lemon, Capers, & White Wine",
+        "price": "25.95"
+      },
+      {
+        "name": "Salmon alla Grilla al Senape",
+        "description": "Grilled Salmon, Mushrooms, Truffle Cream Sauce, Vegetables & Mashed Potatoes",
+        "price": "29.95"
+      }
+    ],
+    "pollo": [
+      {
+        "name": "Pollo con Provatura",
+        "description": "Sauteed Chicken Breast, Proscuitto & Smoked Mozzarella",
+        "price": "21.95"
+      },
+      {
+        "name": "Pollo Senape",
+        "description": "Chicken Breast, Mustard Sauce & Mushrooms",
+        "price": "20.95"
+      },
+      {
+        "name": "Pollo alla Parmigiana",
+        "description": "Parmigina over Capellini in Pink Sauce",
+        "price": "24.95"
+      },
+      {
+        "name": "Pollo Marsala",
+        "description": "Chicken Breast with Marsala Wine & Mushrooms",
+        "price": "21.95"
+      },
+      {
+        "name": "Pollo Cacciatore",
+        "description": "Chicken Breast, Garlic, Rosemary, Italian Sausage, Peppers & Touch Marinara",
+        "price": "21.95"
+      },
+      {
+        "name": "Pollo Piccata",
+        "description": "Chicken, lemon, capers & white wine",
+        "price": "21.95"
+      },
+      {
+        "name": "Pollo Caprino",
+        "description": "Chicken Breast, Goat Cheese, Mushrooms & a Red Wine Cream Sauce",
+        "price": "21.95"
+      },
+      {
+        "name": "Pollo al Gorgonzola",
+        "description": "Chicken Breast, Gorgonzola Cheese, Porto Wine & Sundried Tomatoes",
+        "price": "22.95"
+      }
+    ],
+    "carni": [
+      {
+        "name": "Saltimboca alla Romana",
+        "description": "Veal Scaloppini, Prosciutto, Sage & Spinach",
+        "price": "28.95"
+      },
+      {
+        "name": "Vitello alla Sorrentina",
+        "description": "Veal Scaloppini, Eggplant, Prosciutto & Mozzarella",
+        "price": "25.95"
+      },
+      {
+        "name": "Vitello alla Milanese",
+        "description": "Veal topped with Chopped Tomato, Fresh Mozzarella & Arugula Salad",
+        "price": "28.95"
+      },
+      {
+        "name": "Vitello alla Parmigiana",
+        "description": "Veal Scaloppini over Capellini in a Pink Tomato Saucr",
+        "price": "26.95"
+      },
+      {
+        "name": "Scaloppine al Marsala",
+        "description": "Veal Scaloppini, Mushrooms & Marsala Wine Sauce",
+        "price": "25.95"
+      },
+      {
+        "name": "Fegato alla Veneziana",
+        "description": "Calf's Liver, Onions & Balsamic",
+        "price": "29.95"
+      },
+      {
+        "name": "Maiale Al Senape",
+        "description": "Pan Roasted Pork Loin, Mushrooms & Mustard Sauce",
+        "price": "23.95"
+      },
+      {
+        "name": "Scaloppine alla Emilliana",
+        "description": "Breaded Veal Scaloppini, Fresh Tomato & Parmesan Cheese",
+        "price": "26.95"
+      }
+    ],
+    "pizza": [
+      {
+        "name": "Margherita",
+        "description": "Tomato, Basil & Mozzarella Cheese",
+        "price": "14.95"
+      },
+      {
+        "name": "Taste of Brazil",
+        "description": "Brazilian Catupiry Cheese & Chicken",
+        "price": "17.95"
+      },
+      {
+        "name": "Quattro Formaggi",
+        "description": "White Pizza, Mozzarella, Gorgonzla, Ricotta & Feta Cheese",
+        "price": "17.95"
+      },
+      {
+        "name": "Al Pesto",
+        "description": "Mushrooms, Sun-Dried Tomatoes, Pesto",
+        "price": "17.95"
+      },
+      {
+        "name": "Meat Lovers",
+        "description": "Margherita with Sausage, Prosciutto, Pepperoni & Meatballs",
+        "price": "18.95"
+      },
+      {
+        "name": "Di Parma",
+        "description": "Arugula, Prosciutto di Parma & Shaved Parmesan Cheese, Extra Virgin Oilve Oil",
+        "price": "18.95"
+      },
+      {
+        "name": "Funghi Truffle",
+        "description": "Mushrooms, Arugula, Shaved Parmesan & Truffle Oil Drizzle",
+        "price": "17.95"
+      }
+    ],
+    "sides": [
+      { "name": "Sauteed Broccoli Rabe", "price": "11.95" },
+      { "name": "Sauteed Mushrooms", "price": "9.95" },
+      { "name": "Penne or Spaghetti Marinara", "price": "9.95" },
+      { "name": "Chicken Fingers with Fries", "price": "14.95" },
+      { "name": "Mozzarella Sticks", "price": "14.95" }
+    ],
+    "party": [
+      {
+        "apps": [
+          {
+            "name": "Eggplant Rollantini",
+            "description": "Stuffed egg plant with riccotta cheese gratin with mozzarella cheese in basil marinara sauce."
+          },
+          {
+            "name": "Fried Calamari",
+            "description": "Crispy fried calamari served with spicy marinara."
+          },
+          {
+            "name": "Spiedino Di Pollo",
+            "description": "Sesame seeds chicken skewers served with balsamic reduction."
+          },
+          {
+            "name": "Polenta alla Gorgonzola",
+            "description": "Polenta with sautéed mushrooms, in Gorgonzola cream."
+          }
+        ]
+      },
+      {
+        "courses": [
+          {
+            "name": "House salad",
+            "description": "Mixed greens, grape tomatoes, carrots, croutons with an Italian dressing."
+          },
+          {
+            "name": "Penne basil pomodoro sauce",
+            "description": "Vodka sauce $4 extra."
+          },
+          {
+            "name": "Stuffed pork valdostana",
+            "description": "Stuffed panko breaded loin with spinach prosciutto and mozzarella in a mushroom Madeira wine sauce."
+          },
+          {
+            "name": "Pollo Marsala",
+            "description": "Sautéed chicken with mushrooms marsala wine touch of cream."
+          },
+          {
+            "name": "Sole alla Francese",
+            "description": "Filet of sole in lemon capers cream sauce."
+          },
+          {
+            "name": "Veal alla Sorrentina",
+            "description": "Veal, eggplant, prosciutto, mozzarella in light brown sauce."
+          },
+          {
+            "name": "Penne Aurora",
+            "description": "Penne with chicken, mushrooms, peas in vodka sauce."
+          },
+          {
+            "name": "Chicken alla Parmagiana",
+            "description": "Served with vodka sauce."
+          },
+          {
+            "name": "Salmon al Senape",
+            "description": "$5 extra per person - Roasted salmon, mushrooms Dijon mustard."
+          }
+        ]
+      },
+      {
+        "kids": [
+          { "name": "Chicken tenders with french fries" },
+          { "name": "Fried mozzarella with french fries" },
+          { "name": "Cheese ravioli with alfredo sauce" },
+          { "name": "Baked ziti" }
+        ]
+      }
+    ],
+    "desserts": [
+      {
+        "name": "Chocolatissimo",
+        "description": "An Italian chocolate souffle served with cream anglaise & strawberry coulis.",
+        "price": "9.95"
+      },
+      {
+        "name": "Cheesecake",
+        "description": "Homemade N.Y cheesecake served with caramel sauce.",
+        "price": "9.95"
+      },
+      {
+        "name": "Apple Tart",
+        "description": "Puff pastry with sliced apples, vanilla ice cream & caramel sauce.",
+        "price": "9.95"
+      },
+      {
+        "name": "Coconut Panna Cotta",
+        "description": "An Italian coconut cooked cream served with fresh berries coulis.",
+        "price": "9.95"
+      },
+      {
+        "name": "Tiramisu",
+        "description": "Elegant & rich layered Italian dessert.",
+        "price": "9.95"
+      },
+      {
+        "name": "Creme Brulee",
+        "description": "A classic French dessert made of a smooth thick custard topped with a caramelized hard sugar top.",
+        "price": "9.95"
+      },
+      {
+        "name": "Coconut Vanilla Ice Cream",
+        "description": "Fried coconut crusted vanilla ice cream served with caramel sauce.",
+        "price": "9.95"
+      },
+      {
+        "name": "Tartufo",
+        "description": "Chocolate vanilla cherry tartufo served with chocolate coulis.",
+        "price": "9.95"
+      },
+      {
+        "name": "Lemon Sorbet",
+        "price": "8.95"
+      },
+      {
+        "name": "Coconut Sorbet",
+        "price": "8.95"
+      },
+      {
+        "name": "Mixed Berries Sorbet",
+        "price": "8.95"
+      }
+    ]
+  }
+]

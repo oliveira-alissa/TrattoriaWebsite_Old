@@ -1,0 +1,71 @@
+.toggleButton {
+  display: none;
+  position: absolute;
+  right: 8px;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: all 0.5s ease-out;
+  z-index: 40;
+  width: 30px;
+}
+
+.middle {
+  bottom: 5px;
+  height: 3px;
+  width: 1.875rem;
+  background-color: white;
+  border-radius: 3.125rem;
+  position: absolute;
+  transition: 0.3s ease;
+}
+
+.top {
+  bottom: 12px;
+  height: 3px;
+  width: 1.875rem;
+  background-color: white;
+  border-radius: 3.125rem;
+  position: absolute;
+  transition: 0.3s ease;
+}
+
+.bottom {
+  /* top: 5px; */
+  height: 3px;
+  width: 1.875rem;
+  background-color: white;
+  border-radius: 3.125rem;
+  position: absolute;
+  transition: 0.3s ease;
+}
+
+.label input[type="checkbox"]:checked ~ .toggleButton .top {
+  transform: rotate(-50deg);
+  width: 1.5rem;
+
+  transform-origin: right;
+  top: -20px;
+  right: 8px;
+  background-color: white;
+}
+
+.label input[type="checkbox"]:checked ~ .toggleButton .bottom {
+  transform: rotate(50deg);
+  width: 1.5rem;
+
+  transform-origin: right;
+  top: 0px;
+  background-color: white;
+}
+
+.label input[type="checkbox"]:checked ~ .toggleButton .middle {
+  transform: translateX(-20px);
+  opacity: 0;
+}
+
+@media (max-width: 1439px) {
+  .toggleButton {
+    display: flex;
+  }
+}
